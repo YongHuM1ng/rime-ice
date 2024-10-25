@@ -22,7 +22,7 @@ patch:
       border_width: 1
       margin_x: 10
       margin_y: 7
-      hilite_spacing: 6
+      hilite_spacing: 0
       hilite_padding_y: 7
       hilite_padding_x: 10
       shadow_radius: 8
